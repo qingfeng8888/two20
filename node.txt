@@ -1,5 +1,5 @@
 #eddiehome
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@jp07.naigai.one:443?allowInsecure=0&peer=jp07.naigai.one&sni=jp07.naigai.one#%E6%97%A5%E6%9C%AC02%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E4%B8%89%E7%BD%91%E4%BC%98%E5%8C%96
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:33897?peer=tw01.bot666.xyz#%E5%8F%B0%E6%B9%BE01%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
 trojan://T9MTTc@kcd.tkblogs.win:443?peer=#ed%20US%E8%8A%82%E7%82%B9
 trojan://U2Q4EyzpHph84whaz9@fm1-1.nrojat.com:443
-ssr://Y24tNi5jcmhub2RlLnRvcDo1NjU6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6UVVGRldFNUZWRmRQVWt0VVJVTklUazlNVDBkWlRGUkVNakF4TnpBM01UVS8_cmVtYXJrcz02YWFaNXJpdiZwcm90b3BhcmFtPSZvYmZzcGFyYW09TVRrMU1UY3RZemRrT1hZd2N6UlJUaTVrYjNkdWJHOWhaQzV0YVdOeWIzTnZablF1WTI5dA
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@gy.naigai.one:30005?peer=de01.naigai.one#%E5%BE%B7%E5%9B%BD02%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E5%8D%8E%E5%8D%97%E9%9A%A7%E9%81%93
