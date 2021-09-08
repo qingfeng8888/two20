@@ -1,7 +1,3 @@
 #eddiehome
 trojan://T9MTTc@sgp.pikaqiu.win:443/?peer=#ed%20SG%E8%8A%82%E7%82%B9
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@gy.naigai.one:30002?peer=us01.naigai.one#%E7%BE%8E%E5%9B%BD02%E4%B8%A8%E8%A7%A3%E9%94%81%E4%B8%A8%E5%8D%8E%E5%8D%97%E9%9A%A7%E9%81%93
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:33894?peer=us01.naigai.one#%E7%BE%8E%E5%9B%BD01
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:43897?peer=jp07.naigai.one#%E6%97%A5%E6%9C%AC01%E4%B8%A8%E9%AB%98%E9%80%9F%E4%B8%A8%E5%BE%AE%E8%BD%AF%E9%9A%A7%E9%81%93
 trojan://T9MTTc@kr69.pikaqiu.win:443?peer=#ed%20%E9%9F%A9%E5%9B%BD
-ssr://aGswMi5jbGFzaGNsb3VkLnRlY2g6NDk4MTU6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6TWpJeE5EQkMvP3JlbWFya3M9NUxpdDVadTlMZW1tbWVhNHJ3JnByb3RvcGFyYW09Jm9iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIyMA
