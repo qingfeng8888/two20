@@ -1,7 +1,5 @@
 #eddiehome
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@wr.naigai.one:9961?peer=hk4.bot666.xyz#%E9%A6%99%E6%B8%AF04
-ss://YWVzLTI1Ni1nY206YmM5YzIxODgtZWNkNy00NzVlLWFjNjUtM2JmYmJhY2VjZjZjQHdyLm5haWdhaS5vbmU6OTk1OA#%E6%96%B0%E5%8A%A0%E5%9D%A102
-trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@jp03.bot666.xyz:443?peer=jp03.bot666.xyz#%E6%97%A5%E6%9C%AC03
-trojan://T9MTTc@sgp.pikaqiu.win:443/?peer=#ed%20SG%E8%8A%82%E7%82%B9
-trojan://T9MTTc@kr69.pikaqiu.win:443?peer=#ed%20%E9%9F%A9%E5%9B%BD
-trojan://1940dba9-c8fb-39e2-81b3-eef423d7f6dacmynw@l2-uk-a.cn0.me:443/?peer=paydiu.com#%E8%8B%B1%E5%9B%BD-A
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@az.naigai1.club:10570/?allowInsecure=1&peer=hk01.naigai1.club#%E9%A6%99%E6%B8%AF0
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@az.naigai1.club:10801/?peer=tw04.naigai1.club#%E5%8F%B0%E6%B9%BE04
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@tw01.naigai1.club:443/?peer=tw01.naigai1.club#%E5%8F%B0%E6%B9%BE01
+ssr://aHIwMy5zZXJlbmF6dW1hLmNvbTo4MDMzOm9yaWdpbjpyYzQtbWQ1Omh0dHBfc2ltcGxlOlUwZFVTelpCLz9yZW1hcmtzPTVMaXQ1WnU5TGVhWHBlYWNyQ0JCJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIyMA
