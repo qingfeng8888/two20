@@ -3,3 +3,4 @@ ssr://bGlhN25vc2gubm9kZWluZm8uaWN1OjIxMDU6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOn
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@jp04.naigai1.club:443?peer=jp04.naigai1.club#%E6%97%A5%E6%9C%AC02
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@sg11.naigai1.club:443?peer=sg11.naigai1.club#%E7%8B%AE%E5%9F%8E06
 ssr://aHIwMy5zZXJlbmF6dW1hLmNvbTo4MDMzOm9yaWdpbjpyYzQtbWQ1Omh0dHBfc2ltcGxlOlUwZFVTelpCLz9yZW1hcmtzPTVMaXQ1WnU5TGVhWHBlYWNyQ0JCJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIyMA
+ssr://aGswMS5zZXJlbmF6dW1hLmNvbTo4MDMzOm9yaWdpbjpyYzQtbWQ1Omh0dHBfc2ltcGxlOlUwZFVTelpCLz9yZW1hcmtzPTVMaXQ1WnU5TGVtbW1lYTRydyZwcm90b3BhcmFtPSZvYmZzcGFyYW09Wkc5M2JteHZZV1F1ZDJsdVpHOTNjM1Z3WkdGMFpTNWpiMjA
