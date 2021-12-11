@@ -1,4 +1,6 @@
 #eddiehome
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@us06.naigai1.club:443?peer=#%E7%BE%8E%E5%9B%BD0
+trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@us04.naigai1.club:443?peer=#%E7%BE%8E%E5%9B%BD0
 trojan://T9MTTc@buyvmlasi.tkblogs.win:443?peer=#US%20w
 trojan://bc9c2188-ecd7-475e-ac65-3bfbbacecf6c@us07.naigai1.club:443?peer=#%E7%BE%8E%E5%9B%BD04
 ssr://Y24tMS5jcmhub2RlLnRvcDo1NTU6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6UVVGRldFNUZWRmRQVWt0VVJVTklUazlNVDBkWlRGUkVNakF4TnpBM01UVS8_cmVtYXJrcz01WS13NXJtLSZwcm90b3BhcmFtPSZvYmZzcGFyYW09TWpBeE5EZ3RPREU0Ym5jM2JWbG5SaTVrYjNkdWJHOWhaQzV0YVdOeWIzTnZablF1WTI5dA
