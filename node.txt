@@ -1,12 +1,4 @@
 #eddiehome
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NDc3ZmIyYTAtZGFmNC0zMDQxLWI2ZjYtNWRlM2Y0MmVjYzY5QGluMDEuZG5zMjMzMy54eXo6NjQwNTE?remarks=%E5%8D%B0%E5%BA%A601&obfsParam=biteb-in01.airport-v2.com&path=/hls&obfs=websocket&tls=1&peer=biteb-in01.airport-v2.com&allowInsecure=1
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NDc3ZmIyYTAtZGFmNC0zMDQxLWI2ZjYtNWRlM2Y0MmVjYzY5QGluMDUuZG5zMjMzMy54eXo6NjQwMTQ?remarks=%E7%BE%8E%E5%9B%BD01&obfsParam=biteb-us01.covid19.rip&path=/biteb&obfs=websocket&tls=1&peer=biteb-us01.covid19.rip&allowInsecure=1
-vmess://Y2hhY2hhMjAtcG9seTEzMDU6NDc3ZmIyYTAtZGFmNC0zMDQxLWI2ZjYtNWRlM2Y0MmVjYzY5QGluMDQuZG5zMjMzMy54eXo6NjQwODY?remarks=V1-%E6%97%A5%E6%9C%AC&obfsParam=jp-balancer.myn1des.com&path=/biteb&obfs=websocket&tls=1&peer=jp-balancer.myn1des.com&allowInsecure=1
-trojan://T9MTTc@43.128.63.163:443?peer=c2.tkblogs.win#HK%E8%8A%82%E7%82%B9
-vmess://YXV0bzphZmQ5OWFlOC1lM2E0LTM4NjUtOTY2Ni1mMGZlOTk5Njk1MGFAc2R0dS5obnloZ2wuY29tOjIwMDA3?remarks=%F0%9F%87%BA%F0%9F%87%B2%20%E7%BE%8E%E5%9B%BD-%E5%B1%B1%E4%B8%9C%E8%81%94%E9%80%9A%20%7C%20planA&obfsParam=api.floatcloud.live&path=/us-1&obfs=websocket&tls=1&alterId=0
-vmess://YXV0bzphZmQ5OWFlOC1lM2E0LTM4NjUtOTY2Ni1mMGZlOTk5Njk1MGFAZ3p0Yy5obnloZ2wuY29tOjIwMDA1?remarks=%E9%A6%99%E6%B8%AFH&obfsParam=api.floatcloud.live&path=/game&obfs=websocket&tls=1&alterId=0
-ssr://MTI3LjAuMC4xOjgwMzM6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6VTBkVVN6WkIvP3JlbWFya3M9ZEdsd2MtUzRwZWVtZ1dKMElIQjA1TGlMNkwyOUlPV1BrZWVPc09Xd2dlV1B0eURvc0tMb3NLTG5rSWJvcDZNJnByb3RvcGFyYW09Jm9iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIy
-vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbS5obnloZ2wuY29tOjIwMDEw?remarks=%F0%9F%87%A8%F0%9F%87%B3%20%20%E5%8F%B0%E6%B9%BE-%E4%B8%8A%E6%B5%B7%E7%A7%BB%E5%8A%A8%20%7C%20planD&obfsParam=tw108.1loli.pw&path=/game&obfs=websocket&tls=1&alterId=0
-vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hiZ3AuaG55aGdsLmNvbToyMDAwNg?remarks=%F0%9F%87%A8%F0%9F%87%B3%20%20%E6%96%B0%E5%8A%A0%E5%9D%A1-%E4%B8%8A%E6%B5%B7BGP%20%7C%20planD&obfsParam=api.floatcloud.live&path=/sgp-1&obfs=websocket&tls=1&alterId=0
-trojan://T9MTTc@43.129.183.228:443/?peer=c3-2.pikaqiu.win#XHK%E8%8A%82%E7%82%B9
-trojan://T9MTTc@43.134.207.248:443/?peer=c33.qqtang.xyz#bHK%E8%8A%82%E7%82%B9
+trojan://a9289ac3-90a6-328c-b0dc-2cc73bb9d6b8@shcn2.hnyhgl.com:30001/?peer=api.floatcloud.live#%F0%9F%87%A8%F0%9F%87%B3%20%20%20%20%20%E9%A6%99%E6%B8%AF-%E4%B8%8A%E6%B5%B7
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbjIuaG55aGdsLmNvbToyMDAwMQ?remarks=%E9%A6%99%E6%B8%AF-%E4%B8%8A%E6%B5%B7&obfsParam=api.floatcloud.live&path=/game&obfs=websocket&tls=1&alterId=0
+vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2hjbjIuaG55aGdsLmNvbToyMDAwNg?remarks=%E6%97%A5%E6%9C%AC&obfsParam=api.floatcloud.live&path=/jp&obfs=websocket&tls=1&alterId=0
