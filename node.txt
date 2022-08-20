@@ -1,7 +1,7 @@
 #eddiehome
-trojan://16549817-fc61-4434-9317-734348b592ec@iplchk1.bitznet.cloud:34443?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-%E4%B8%93
-trojan://16549817-fc61-4434-9317-734348b592ec@iplcfr1.bitznet.cloud:34009?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD-%E4%B8%93
-trojan://16549817-fc61-4434-9317-734348b592ec@iplcus1.bitznet.cloud:34001?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%E4%B8%93
+trojan://16549817-fc61-4434-9317-734348b592ec@iplchk1.bitznet.one:34443?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF-%E4%B8%93
+trojan://16549817-fc61-4434-9317-734348b592ec@iplcus1.bitznet.one:34001?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD-%E4%B8%93
+trojan://16549817-fc61-4434-9317-734348b592ec@iplcsk1.bitznet.one:34005?peer=cert.bitbyte.one&tfo=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD-%E4%B8%93
 vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2N0Yy5ianl4cndsa2ouY29tOjIwMDAx?remarks=%F0%9F%87%AD%F0%9F%87%B0%20%20%20%20%20%E9%A6%99%E6%B8%AF&obfsParam=hgc.curltron.com&path=/game&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2R0dS5ianl4cndsa2ouY29tOjIwMDA4?remarks=%F0%9F%87%B8%F0%9F%87%AC%20%20%E6%96%B0%E5%8A%A0%E5%9D%A1&obfsParam=api.floatcloud.live&path=/sgp-1&obfs=websocket&tls=1&alterId=0
 vmess://YXV0bzphOTI4OWFjMy05MGE2LTMyOGMtYjBkYy0yY2M3M2JiOWQ2YjhAc2R0dS5ianl4cndsa2ouY29tOjIwMDA1?remarks=%F0%9F%87%AD%F0%9F%87%B0%20%20%20%E9%A6%99%E6%B8%AFH&obfsParam=api.floatcloud.live&path=/game&obfs=websocket&tls=1&alterId=0
